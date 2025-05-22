@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 40px;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+form input, form button {
+    display: block;
+    margin-bottom: 15px;
+    padding: 10px;
+    width: 300px;
+}
+
+button {
+    background-color: #3498db;
+    color: rgb(7, 1, 1);
+    border: none;
+    cursor: pointer;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('umg.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: rgb(8, 7, 7);
+    font-size: 18px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
